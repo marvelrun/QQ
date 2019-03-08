@@ -1,0 +1,164 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU LeCun, Y
+   Bengio, Y
+   Hinton, G
+AF LeCun, Yann
+   Bengio, Yoshua
+   Hinton, Geoffrey
+TI Deep learning
+SO NATURE
+LA English
+DT Review
+ID NEURAL-NETWORKS; RECOGNITION; ALGORITHM; MODELS; IMAGES; CORTEX; NETS
+AB Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech recognition, visual object recognition, object detection and many other domains such as drug discovery and genomics. Deep learning discovers intricate structure in large data sets by using the backpropagation algorithm to indicate how a machine should change its internal parameters that are used to compute the representation in each layer from the representation in the previous layer. Deep convolutional nets have brought about breakthroughs in processing images, video, speech and audio, whereas recurrent nets have shone light on sequential data such as text and speech.
+C1 [LeCun, Yann] Facebook Al Res, New York, NY 10003 USA.
+   [LeCun, Yann] New York Univ, New York, NY 10003 USA.
+   [Bengio, Yoshua] Univ Montreal, Dept Comp Sci & Operat Res, Montreal, PQ H3C 3J7, Canada.
+   [Hinton, Geoffrey] Google, Mountain View, CA 94043 USA.
+   [Hinton, Geoffrey] Univ Toronto, Dept Comp Sci, Toronto, ON M5S 3G4, Canada.
+RP LeCun, Y (reprint author), Facebook Al Res, 770 Broadway, New York, NY 10003 USA.
+EM yann@cs.nyu.edu
+FU Natural Sciences and Engineering Research Council of Canada; Canadian
+   Institute For Advanced Research (CIFAR); National Science Foundation;
+   Office of Naval Research
+FX The authors would like to thank the Natural Sciences and Engineering
+   Research Council of Canada, the Canadian Institute For Advanced Research
+   (CIFAR), the National Science Foundation and Office of Naval Research
+   for support. Y.L. and Y.B. are CIFAR fellows.
+CR Ba J., 2014, P INT C LEARN REPR
+   Bahdanau D., 2015, P INT C LEARN REPR
+   BENGIO Y, 1994, IEEE T NEURAL NETWOR, V5, P157, DOI 10.1109/72.279181
+   Bengio Y, 2001, ADV NEUR IN, V13, P932
+   Bengio Y., 2006, ADV NEURAL INFORM PR, P153
+   Bengio Y., 2009, LEARNING DEEP ARCHIT
+   Bengio Y., 2014, P 31 INT C MACH LEAR, V2, P226
+   Bengio Y., 2005, P ADV NEUR INF PROC, V18, P107
+   Bengio Y, 2013, IEEE T PATTERN ANAL, V35, P1798, DOI 10.1109/TPAMI.2013.50
+   Bordes A., 2014, P EMP METH NAT LANG
+   BOSER BE, 1991, IEEE J SOLID-ST CIRC, V26, P2017, DOI 10.1109/4.104196
+   Bottou L., 1989, P EUR, V89, P537
+   Bottou L., 2007, ADV NEURAL INFORM PR, V20, P161
+   Bottou L, 2014, MACH LEARN, V94, P133, DOI 10.1007/s10994-013-5335-x
+   Cadieu CF, 2014, PLOS COMPUT BIOL, V10, DOI 10.1371/journal.pcbi.1003963
+   Cho K., 2014, P 2014 C EMP METH NA, P1724
+   Choromanska A., 2014, P C AI STAT
+   Ciodaro T, 2012, J PHYS CONF SER, V368, DOI 10.1088/1742-6596/368/1/012030
+   Ciresan D, 2012, NEURAL NETWORKS, V32, P333, DOI 10.1016/j.neunet.2012.02.023
+   Collobert R, 2011, J MACH LEARN RES, V12, P2493
+   Dahl G. E., 2012, IEEE T AUDIO SPEECH, V20, P33
+   Dauphin Y. N., 2014, P ADV NEUR INF PROC, P2933
+   Duda R O, 1973, PATTERN CLASSIFICATI
+   ElHihi S., 1995, P ADV NEUR INF PROC, P8
+   Farabet C., 2012, P INT C MACH LEARN
+   Farabet C., 2011, SCALING MACHINE LEAR, P399
+   Farabet C, 2013, IEEE T PATTERN ANAL, V35, P1915, DOI 10.1109/TPAMI.2012.231
+   Felleman DJ, 1991, CEREB CORTEX, V1, P1, DOI 10.1093/cercor/1.1.1
+   FUKUSHIMA K, 1982, PATTERN RECOGN, V15, P455, DOI 10.1016/0031-3203(82)90024-3
+   Garcia C, 2004, IEEE T PATTERN ANAL, V26, P1408, DOI 10.1109/TPAMI.2004.97
+   Girshick R., 2014, P IEEE C COMP VIS PA, P580
+   Glorot X., 2011, P 14 INT C ART INT S, V15, P315
+   Graves A., 2014, NEURAL TURING MACHIN
+   Graves A, 2013, INT CONF ACOUST SPEE, P6645, DOI 10.1109/ICASSP.2013.6638947
+   Gregor K., 2010, P 27 INT C MACH LEAR, P399
+   Hadsell R, 2009, J FIELD ROBOT, V26, P120, DOI 10.1002/rob.20276
+   Helmstaedter M, 2013, NATURE, V500, P168, DOI 10.1038/nature12346
+   Hinton GE, 2006, SCIENCE, V313, P504, DOI 10.1126/science.1127647
+   Hinton G. E., 1995, SCIENCE, V268, P1558
+   Hinton G. E., 2005, P 19 INT JOINT C ART, P1765
+   Hinton G, 2012, IEEE SIGNAL PROC MAG, V29, P82, DOI 10.1109/MSP.2012.2205597
+   Hinton GE, 2006, NEURAL COMPUT, V18, P1527, DOI 10.1162/neco.2006.18.7.1527
+   Hochreiter S, 1997, NEURAL COMPUT, V9, P1735, DOI 10.1162/neco.1997.9.8.1735
+   Hochreiter S, 1991, THESIS TU MUNICH
+   HUBEL DH, 1962, J PHYSIOL-LONDON, V160, P106
+   Jean S., 2015, P ACL IJCNLP
+   Kaggle, 2014, HIGGS BOS MACH LEARN
+   Kavukcuoglu K., 2010, ADV NEURAL INFORM PR, V23, P1090
+   Kingma D., 2014, P ADV NEUR INF PROC, V27, P3581
+   Hinton G., 2012, P ADV NEUR INF PROC, V25, P1090
+   Lakoff G., 2008, METAPHORS WE LIVE BY
+   Lawrence S, 1997, IEEE T NEURAL NETWOR, V8, P98, DOI 10.1109/72.554195
+   Lecun Y, 1998, P IEEE, V86, P2278, DOI 10.1109/5.726791
+   LeCun Y, 1990, ADV NEURAL INFORM PR, P396
+   LeCun Y., 1985, P COGNITIVA, V85, P599
+   Leung MKK, 2014, BIOINFORMATICS, V30, P121, DOI 10.1093/bioinformatics/btu277
+   Ma JS, 2015, J CHEM INF MODEL, V55, P263, DOI [10.1021/ci500747n, 10.1021/ci5000747n]
+   Mikolov T., 2013, ADV NEURAL INF PROCE, V26, P3111
+   Mikolov T, 2011, P ASRU, P196
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Mohamed AR, 2012, IEEE T AUDIO SPEECH, V20, P14, DOI 10.1109/TASL.2011.2109382
+   Montufar G., 2014, J DISCRETE MATH, V29, P321
+   Montufar G. F., 2014, P ADV NEUR INF PROC, V27, P2924
+   Ning F, 2005, IEEE T IMAGE PROCESS, V14, P1360, DOI 10.1109/TIP.2005.852470
+   Nowlan S., 1995, NEURAL INFORM PROCES
+   Osadchy M, 2007, J MACH LEARN RES, V8, P1197
+   Parker D. B., 1985, TR47
+   Pascanu R., 2013, P 30 INT C MACH LEAR, P1310
+   Raina R, 2009, 26 ANN INT C MACH LE, V382, P873
+   Ranzato M., 2007, ADV NEURAL INFORM PR, V19, P1137
+   Ranzato M, 2013, IEEE T PATTERN ANAL, V35, P2206, DOI 10.1109/TPAMI.2013.29
+   Rogers T. T., 2004, SEMANTIC COGNITION P
+   Rosenblatt F, 1957, 854601 CORN AER LAB
+   RUMELHART DE, 1986, NATURE, V323, P533, DOI 10.1038/323533a0
+   Sainath TN, 2013, INT CONF ACOUST SPEE, P8614, DOI 10.1109/ICASSP.2013.6639347
+   Salakhutdinov R., 2009, ARTIF INTELL, V5, P448
+   SCHOLKOPF B, 2002, LEARNING KERNELS
+   Schwenk H, 2007, COMPUT SPEECH LANG, V21, P492, DOI 10.1016/j.csl.2006.09.003
+   Selfridge OG, 1958, P S HELD NAT PHYS LA, P513
+   Sermanet P., 2013, P INT C COMP VIS PAT
+   Sermanet P., 2014, P INT C LEARN REPR
+   Simard D., 2003, P INT C DOC AN REC I, P958
+   Simonyan K., 2014, P INT C LEARN REPR
+   Socher R., 2011, P 28 INT C MACH LEAR, P129
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Sutskever I., 2012, THESIS U TORONTO
+   Sutskever I., 2011, P 28 INT C MACH LEAR, P1017
+   Le Q. V., 2014, P ADV NEUR INF PROC, V27, P3104
+   Szegedy C., 2014, PREPRINT
+   Taigman Y., 2014, P IEEE C COMP VIS PA, DOI [10.1109/CVPR.2014.220, DOI 10.1109/CVPR.2014.220]
+   Tompson J., 2014, P C COMP VIS PATT RE
+   Tompson J. J., 2014, P ADV NEUR INF PROC, P1799
+   Turaga SC, 2010, NEURAL COMPUT, V22, P511, DOI 10.1162/neco.2009.10-08-881
+   VAILLANT R, 1994, IEE P-VIS IMAGE SIGN, V141, P245, DOI 10.1049/ip-vis:19941301
+   van der Maaten L, 2008, J MACH LEARN RES, V9, P2579
+   Vincent P., 2008, P 25 INT C MACH LEAR, V307, P1096
+   Vinyals O., 2014, P INT C MACH LEARN
+   WAIBEL A, 1989, IEEE T ACOUST SPEECH, V37, P328, DOI 10.1109/29.21701
+   Werbos P., 1974, THESIS HARVARD U
+   Weston J., 2015, AI COMPLETE QUESTION
+   Weston J., 2014, MEMORY NETWORKS
+   Xiong H. Y., 2015, SCIENCE, V347, P6218
+   Xu K., 2015, P INT C LEARN REPR
+NR 103
+TC 1543
+Z9 1620
+U1 699
+U2 2181
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD MAY 28
+PY 2015
+VL 521
+IS 7553
+BP 436
+EP 444
+DI 10.1038/nature14539
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CJ2AN
+UT WOS:000355286600030
+PM 26017442
+OA No
+HC Y
+HP N
+DA 2017-12-05
+ER
+
+EF

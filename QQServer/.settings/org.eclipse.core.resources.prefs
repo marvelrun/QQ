@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/bean/Account.java=utf-8
+encoding//src/bean/Friend.java=utf-8
+encoding//src/bean/Message.java=UTF-8
+encoding//src/db/DBConn.java=GBK
+encoding//src/db/DBOper.java=GBK
